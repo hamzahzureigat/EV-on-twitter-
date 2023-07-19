@@ -38,7 +38,9 @@ db=client['twitter']
 
 db.Iris.insert_many(data) 
 
-## Assignment 2 
+#### "the code in file name " data form twitter .ipynb " in this repository"
+
+## Data Preparing
 
 1. Data Profiling Stage:
 
@@ -92,6 +94,7 @@ db.Iris.insert_many(data)
 2.7 Print the count of unique lemmatized words in the text.
 
   - like 2.3
+### "the code in file name " data preparing.ipynb " in this repository"
 
 # future Potential Applications
 
